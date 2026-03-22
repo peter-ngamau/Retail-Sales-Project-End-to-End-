@@ -1,0 +1,26 @@
+Store_ID,Store_Name,City,Region,Manager,Opening_Date,Store_Size,Employees
+1,Branch_1,Kisumu,Eastern,Duane Ponce,2016-06-19,2157,58
+2,Branch_2,Thika,Western,Shannon Harris,2018-11-08,5393,13
+3,Branch_3,Nakuru,Coastal,Daniel Clark,2017-11-28,11650,68
+4,Branch_4,nairobi,Central,Joseph Gonzales,2020-10-14,14864,61
+5,Branch_5,NAIROBI,Western,Jason Myers,2020-10-17,12484,44
+6,Branch_6,Nairobi,Western,Chelsea Meadows,2020-01-20,11214,10
+7,Branch_7,Nakuru,Eastern,Robin Lamb,2023-12-07,13960,25
+8,Branch_8,Nairobi,Eastern,Travis Smith,2019-12-31,12067,51
+9,Branch_9,Kisumu,Rift Valley,Keith Thompson,2022-09-26,1662,33
+10,Branch_10,Nakuru,Coastal,Andrew Vaughn,2018-01-14,5902,30
+11,Branch_11,Nakuru,Coastal,Kelly Hernandez,2016-11-18,2436,75
+12,Branch_12,Malindi,Rift Valley,Tonya Smith,2019-03-24,7793,12
+13,Branch_13,Kisumu,Western,Daniel Fox,2018-06-19,10038,34
+14,Branch_14,Thika,Western,James Baker,2018-07-22,3248,34
+15,Branch_15,Malindi,Central,Joshua Carter,2017-03-11,12658,59
+16,Branch_16,Nairobi,Coastal,Christopher Cameron,2019-05-06,7046,39
+17,Branch_17,Eldoret,Rift Valley,Carlos Hill,2019-09-20,8089,40
+18,Branch_18,Thika,Coastal,Mario Riley,2018-07-04,12760,11
+19,Branch_19,Nairobi,Western,Jimmy Stanton,2022-08-25,3092,44
+20,Branch_20,Thika,Coastal,Janet Rodriguez,2017-03-15,4297,52
+21,Branch_21,Malindi,Coastal,Samantha Ware,2023-05-13,5387,63
+22,Branch_22,Nairobi,Western,Cathy Lewis,2019-10-23,8889,17
+23,Branch_23,Nairobi,Coastal,Kevin Thomas,2018-02-18,9137,15
+24,Branch_24,Nakuru,Eastern,Jenna Wilson MD,2018-07-07,4411,79
+25,Branch_25,Mombasa,Eastern,Marc Murphy,2017-09-20,14978,41
