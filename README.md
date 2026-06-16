@@ -132,6 +132,8 @@ To make insights executive-ready, interactive dashboards were built in Power BI:
 
 - Table: Store-level revenue, profit, employees
 
+  ![Store Performance](Screenshot/retail_sales_store_performance.png)
+
 ### 2. Product Performance Dashboard
 - KPIs: Top Category Revenue, Top Supplier Revenue, Avg Profit Margin
 
@@ -143,6 +145,8 @@ To make insights executive-ready, interactive dashboards were built in Power BI:
 
 - Table: Product-level profitability
 
+  ![Product Profitability](Screenshot/retail_sales_product_profitability.png)
+
 ### 3. Customer Performance Dashboard
 - KPIs: Total Customers, New Customers, Loyalty Revenue, Avg Revenue per Customer
 
@@ -153,6 +157,8 @@ To make insights executive-ready, interactive dashboards were built in Power BI:
 - Line Chart: Customer Acquisition Trend
 
 - Loyalty Impact Analysis
+
+  ![Customer Behaviour](Screenshot/retail_sales_customer_behaviour.png)
 
  ## Key Business Insights
 1. Revenue Concentration – Few stores/customers drive majority of revenue → Targeted retention strategies
