@@ -161,7 +161,7 @@ To make insights executive-ready, interactive dashboards were built in Power BI:
   ![Customer Behaviour](Screenshot/retail_sales_customer_behaviour.png)
 
  ## Key Business Insights
-1. Revenue Concentration – Few stores/customers drive majority of revenue → Targeted retention strategies
+1. Revenue Concentration – Few stores/customers drive the majority of revenue → Targeted retention strategies
 
 2. Top Products Drive Sales – Certain categories dominate → Prioritize stock & supplier relationships
 
